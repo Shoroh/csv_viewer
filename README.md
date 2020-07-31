@@ -1,4 +1,6 @@
-# CsvViewer
+# CSV Viewer
+
+![](https://ic.pics.livejournal.com/microgenius/12282563/365683/365683_original.png)
 
 ## Usage:
 
